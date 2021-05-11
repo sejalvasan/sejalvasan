@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi there, I am Sejal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<!--
-**sejalvasan/sejalvasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 😄
 
-Here are some ideas to get you started:
+I am pursuing my bachelors in Information Technology engineering.<br>
+I an passionate Frontend Development and Technical Blogging and making Open Source contributions.<br>
+Being a technophile I have always been eager to bring value to the tech community through hard work and commitment to quality. I love to learn new things and implement my  learnings practically.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Experiences ⚡
+
+- Instructor at [UAceIt](https://uaceit.com/dashboard/my-courses/)
+- Participant at [GSSoC'21](https://gssoc.girlscript.tech/)
+- Interned as a Web Developer at [Sparks Foundation](https://www.thesparksfoundationsingapore.org/)
+- Campus Lead at [Script Foundation](https://www.scriptindia.org/)
+- Education Outreach Scholar at [GirlScript Foundation](https://www.girlscript.tech/home)
+- Student Ambassador at [Hack The Solution](https://hackasolution.devpost.com/)
+- Participant at The Cloud Ready Facilitator 2021
+- Interened at [Womenite](https://womenite.com/) - Taught 53 people how to use Google Assistant Program
+
+## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
+
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/sejal-vasan-6455121b4/) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/SejalVasan) [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/sejalvasan)   [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://sejalvasan.medium.com/)  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:sejalvasan@gmail.com)
+
+
+
+<br>
+<br>
+
+
+
