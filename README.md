@@ -22,7 +22,7 @@
 ## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/sejal-vasan-6455121b4/) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/SejalVasan) [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/sejalvasan)   [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://sejalvasan.medium.com/)  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:sejalvasan@gmail.com)
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/sejal-vasan-6455121b4/) &nbsp; &nbsp;  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/SejalVasan) &nbsp; &nbsp;  [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/sejalvasan) &nbsp; &nbsp;   [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://sejalvasan.medium.com/) &nbsp; &nbsp;    [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:sejalvasan@gmail.com)
 
 
 
