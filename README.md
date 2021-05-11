@@ -1,3 +1,5 @@
+![You got this!](https://user-images.githubusercontent.com/69964629/117790722-3ece1180-b267-11eb-9671-d0c883361ac5.gif)
+
 # Hi there, I am Sejal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ## About me 😄
