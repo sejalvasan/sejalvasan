@@ -10,7 +10,7 @@
 
 ## Experiences ⚡
 
- - Instructor at [UAceIt](https://uaceit.com/dashboard/my-courses/)
+ - Instructor at [UAceIt](https://uaceit.com/), Check out my couse [The Ultimate Guide To Technical Blogging](https://uaceit.com/courses/ultimate-guide-to-technical-blogging/)
  - Participant at [GSSoC'21](https://gssoc.girlscript.tech/)
  - Interned as a Web Developer at [Sparks Foundation](https://www.thesparksfoundationsingapore.org/)
  - Campus Lead at [Script Foundation](https://www.scriptindia.org/)
