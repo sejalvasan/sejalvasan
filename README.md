@@ -21,8 +21,8 @@
  - Interened at [Womenite](https://womenite.com/) - Taught 53 people how to use Google Assistant Program
  
 ### Read My Blogs  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+ - [15+ Scholarships For Women In Tech](https://sejalvasan.medium.com/15-scholarships-for-women-in-tech-61f0cb242be1)
  - [5 Trending Tech Blog Topics That Can Give You A Headstart](https://sejalvasan.medium.com/5-trending-tech-blog-topics-that-can-give-you-a-headstart-29e41035e566)
- - [The Chic Nerd](https://sejalvasan.medium.com/the-chic-nerd-3b70d24eb372)
  - [and more....](https://sejalvasan.medium.com/)
 
 ### Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
