@@ -17,7 +17,6 @@
  - Interned as a Web Developer at [Sparks Foundation](https://www.thesparksfoundationsingapore.org/)
  - Campus Lead at [Script Foundation](https://www.scriptindia.org/)
  - Education Outreach Scholar at [GirlScript Foundation](https://www.girlscript.tech/home)
- - Student Ambassador at [Hack The Solution](https://hackasolution.devpost.com/)
  - Participant at The Cloud Ready Facilitator 2021
  - Interened at [Womenite](https://womenite.com/) - Taught 53 people how to use Google Assistant Program
  
