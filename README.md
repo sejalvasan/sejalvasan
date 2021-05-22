@@ -1,8 +1,8 @@
 ![SejalVasan](https://user-images.githubusercontent.com/69964629/117806315-cde32580-b277-11eb-95ca-c494d00431a1.gif)
 
-## Hi there, I am Sejal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Hi there, I am Sejal <img src="https://raw.githubusercontent.com/sejalvasan/TheDudeThatCode/master/Assets/wave.gif" width="40px">
 
-### About me 😄
+### About me <img src ="https://raw.githubusercontent.com/sejalvasan/TheDudeThatCode/master/Assets/Point_Down.gif" width="15px">
 <ul>
  <li>I am pursuing my bachelors in Information Technology engineering.</li>
 <li>I am passionate about Frontend Development and Technical Blogging and making Open Source contributions.</li>
@@ -10,7 +10,7 @@
   </ul>
 
 
-### Experiences ⚡
+### Experiences <img src ="https://raw.githubusercontent.com/sejalvasan/TheDudeThatCode/master/Assets/Rocket.gif" width="20px">
 
  - Instructor at [UAceIt](https://uaceit.com/), Check out my couse [The Ultimate Guide To Technical Blogging](https://uaceit.com/courses/ultimate-guide-to-technical-blogging/)
  - Participant at [GSSoC'21](https://gssoc.girlscript.tech/)
@@ -20,7 +20,7 @@
  - Participant at The Cloud Ready Facilitator 2021
  - Interened at [Womenite](https://womenite.com/) - Taught 53 people how to use Google Assistant Program
  
-### Crack A Joke (Quite Literally)
+### Crack A Joke (Quite Literally) <img src="https://raw.githubusercontent.com/sejalvasan/TheDudeThatCode/master/Assets/gandalf_parrot.gif" width="30px">
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
