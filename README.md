@@ -20,6 +20,12 @@
  - Participant at The Cloud Ready Facilitator 2021
  - Interened at [Womenite](https://womenite.com/) - Taught 53 people how to use Google Assistant Program
  
+### Crack A Joke (Quite Literally)
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+ 
 ### Read My Blogs  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
  - [15+ Scholarships For Women In Tech](https://sejalvasan.medium.com/15-scholarships-for-women-in-tech-61f0cb242be1)
  - [5 Trending Tech Blog Topics That Can Give You A Headstart](https://sejalvasan.medium.com/5-trending-tech-blog-topics-that-can-give-you-a-headstart-29e41035e566)
