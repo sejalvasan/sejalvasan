@@ -1,8 +1,8 @@
 ![SejalVasan](https://user-images.githubusercontent.com/69964629/117806315-cde32580-b277-11eb-95ca-c494d00431a1.gif)
 
-## Hi there, I am Sejal <img src="https://raw.githubusercontent.com/sejalvasan/TheDudeThatCode/master/Assets/wave.gif" width="40px">
+## Hi there, I am Sejal 
 
-### About me <img src ="https://raw.githubusercontent.com/sejalvasan/TheDudeThatCode/master/Assets/Point_Down.gif" width="15px">
+### About me 
 <ul>
  <li>I am pursuing my bachelors in Information Technology engineering.</li>
 <li>I am passionate about Frontend Development and Technical Blogging and making Open Source contributions.</li>
@@ -10,7 +10,7 @@
   </ul>
 
 
-### Experiences <img src ="https://raw.githubusercontent.com/sejalvasan/TheDudeThatCode/master/Assets/Rocket.gif" width="20px">
+### Experiences 
 
  - Instructor at [UAceIt](https://uaceit.com/), Check out my couse [The Ultimate Guide To Technical Blogging](https://uaceit.com/courses/ultimate-guide-to-technical-blogging/)
  - Participant at [GSSoC'21](https://gssoc.girlscript.tech/)
