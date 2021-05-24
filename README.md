@@ -1,8 +1,8 @@
 ![SejalVasan](https://user-images.githubusercontent.com/69964629/117806315-cde32580-b277-11eb-95ca-c494d00431a1.gif)
 
-## Hi there, I am Sejal 
+## Hi there, 👋🏻 I am Sejal <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
-### About me 
+### About me  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30px">
 <ul>
  <li>I am pursuing my bachelors in Information Technology engineering.</li>
 <li>I am passionate about Frontend Development and Technical Blogging and making Open Source contributions.</li>
@@ -10,7 +10,7 @@
   </ul>
 
 
-### Experiences 
+### Experiences <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px">
 
  - Instructor at [UAceIt](https://uaceit.com/), Check out my couse [The Ultimate Guide To Technical Blogging](https://uaceit.com/courses/ultimate-guide-to-technical-blogging/)
  - Participant at [GSSoC'21](https://gssoc.girlscript.tech/)
@@ -20,12 +20,12 @@
  - Participant at The Cloud Ready Facilitator 2021
  - Interened at [Womenite](https://womenite.com/) - Taught 53 people how to use Google Assistant Program
  
-### Read My Blogs  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+### Read My Blogs  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="30px" />
  - [15+ Scholarships For Women In Tech](https://sejalvasan.medium.com/15-scholarships-for-women-in-tech-61f0cb242be1)
  - [5 Trending Tech Blog Topics That Can Give You A Headstart](https://sejalvasan.medium.com/5-trending-tech-blog-topics-that-can-give-you-a-headstart-29e41035e566)
  - [and more....](https://sejalvasan.medium.com/)
 
-### Languages and Tools
+### Languages and Tools    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">](https://www.java.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>](https://www.cprogramming.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>](https://www.w3schools.com/cpp/)
