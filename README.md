@@ -44,6 +44,3 @@
 ### Crack A Joke (Quite Literally) 
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
-
