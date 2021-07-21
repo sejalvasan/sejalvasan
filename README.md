@@ -12,13 +12,13 @@
 
 ### Experiences <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px">
 
+ - Co-Founder at [She Gazette](https://shegazette.co/) 
  - Instructor at [UAceIt](https://uaceit.com/), Check out my couse [The Ultimate Guide To Technical Blogging](https://uaceit.com/courses/ultimate-guide-to-technical-blogging/)
  - Contributing to [LetsGrowMore projects](https://letsgrowmore.in/projects/)
  - Participant at [GSSoC'21](https://gssoc.girlscript.tech/)
  - Interned as a Web Developer at [Sparks Foundation](https://www.thesparksfoundationsingapore.org/)
  - Campus Lead at [Script Foundation](https://www.scriptindia.org/)
  - Education Outreach Scholar at [GirlScript Foundation](https://www.girlscript.tech/home)
- - Participant at The Cloud Ready Facilitator 2021
  - Interened at [Womenite](https://womenite.com/) - Taught 53 people how to use Google Assistant Program
  
 ### Read My Blogs  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="30px" />
