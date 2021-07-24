@@ -42,6 +42,7 @@
 
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/sejal-vasan-6455121b4/) &nbsp; &nbsp;  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/SejalVasan) &nbsp; &nbsp;  [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/sejalvasan) &nbsp; &nbsp;   [<img src="https://user-images.githubusercontent.com/69964629/117806794-67aad280-b278-11eb-98e5-1f00b6c77b84.png" alt="Medium Logo" width="30">](https://sejalvasan.medium.com/) &nbsp; &nbsp;    [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:sejalvasan@gmail.com)
 
-### Crack A Joke (Quite Literally) 😂
+### Crack A Joke (Quite Literally)<img src="https://user-images.githubusercontent.com/69964629/126860178-231d6d94-5e4e-4a9b-bb78-622ec4620b49.gif" height="40px">
+
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
