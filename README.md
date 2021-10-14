@@ -1,6 +1,6 @@
 ![SejalVasan](https://user-images.githubusercontent.com/69964629/117806315-cde32580-b277-11eb-95ca-c494d00431a1.gif)
 
-## Hi there, 👋🏻 I am Sejal <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+## Hi there, 👋🏻 I am [Sejal](https://sejalvasan.netlify.app/) <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
 ### About me  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30px">
 <ul>
