@@ -2,7 +2,7 @@
 
 ## Hi there, 👋🏻 I am [Sejal](https://sejalvasan.netlify.app/) <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
-### About me  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30px">
+### About me 
 <ul>
  <li>I am pursuing my bachelors in Information Technology engineering.</li>
 <li>I am passionate about Frontend Development and Technical Blogging and making Open Source contributions.</li>
@@ -10,8 +10,9 @@
   </ul>
 
 
-### Experiences <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px">
-
+### Experiences
+<!--  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px"> 
+ -->
  - Co-Founder at [She Gazette](https://shegazette.co/) 
  - Instructor at [UAceIt](https://uaceit.com/), Check out my couse [The Ultimate Guide To Technical Blogging](https://uaceit.com/courses/ultimate-guide-to-technical-blogging/)
  - Participant at [GSSoC'21](https://gssoc.girlscript.tech/)
@@ -19,12 +20,14 @@
  - Campus Lead at [Script Foundation](https://www.scriptindia.org/)
  - Interened at [Womenite](https://womenite.com/) - Taught 53 people how to use Google Assistant Program
  
-### Read My Blogs  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="30px" />
+### Read My Blogs  
+<!-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="30px" /> -->
  - [Tutorial: Host Your Own Website On Netlify](https://sejalvasan.medium.com/tutorial-host-your-own-website-on-netlify-598830ca4a60)
  - [15+ Scholarships For Women In Tech](https://sejalvasan.medium.com/15-scholarships-for-women-in-tech-61f0cb242be1)
  - [and more....](https://sejalvasan.medium.com/)
 
-### Languages and Tools    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">
+### Languages and Tools    
+<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> -->
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">](https://www.java.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>](https://www.cprogramming.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>](https://www.w3schools.com/cpp/)
