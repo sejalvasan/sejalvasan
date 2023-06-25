@@ -5,7 +5,7 @@
 ### About me 
 <ul>
  <li>I am pursuing my bachelors in Information Technology engineering.</li>
-<li>I am passionate about Frontend Development and Technical Blogging and making Open Source contributions.</li>
+<li>I am passionate about Full Stack Development.</li>
 <li>Being a technophile I have always been eager to bring value to the tech community through hard work and commitment to quality. I love to learn new things and implement my  learnings practically.</li>
   </ul>
 
@@ -13,6 +13,7 @@
 ### Experiences
 <!--  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px"> 
  -->
+ - Software Development Intern at Amazon.
  - Co-Founder at [She Gazette](https://shegazette.co/) 
  - Instructor at [UAceIt](https://uaceit.com/), Check out my couse [The Ultimate Guide To Technical Blogging](https://uaceit.com/courses/ultimate-guide-to-technical-blogging/)
  - Participant at [GSSoC'21](https://gssoc.girlscript.tech/)
