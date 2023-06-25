@@ -13,7 +13,7 @@
 ### Experiences
 <!--  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px"> 
  -->
- - Software Development Intern at Amazon.
+ - Software Development Intern at [Amazon](https://www.linkedin.com/company/amazon/mycompany/verification/).
  - Co-Founder at [She Gazette](https://shegazette.co/) 
  - Instructor at [UAceIt](https://uaceit.com/), Check out my couse [The Ultimate Guide To Technical Blogging](https://uaceit.com/courses/ultimate-guide-to-technical-blogging/)
  - Participant at [GSSoC'21](https://gssoc.girlscript.tech/)
