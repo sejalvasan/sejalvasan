@@ -4,7 +4,7 @@
 
 ### About me 
 <ul>
- <li>I am pursuing my bachelors in Information Technology engineering.</li>
+ <li>I have completed my bachelors in Information Technology engineering.</li>
 <li>I am passionate about Full Stack Development.</li>
 <li>Being a technophile I have always been eager to bring value to the tech community through hard work and commitment to quality. I love to learn new things and implement my  learnings practically.</li>
   </ul>
