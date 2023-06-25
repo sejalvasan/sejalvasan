@@ -1,5 +1,5 @@
 
-![SejalVasan](https://github.com/sejalvasan/sejalvasan/assets/69964629/be2cb894-d6fa-49f1-b634-451030ff5c13)
+![SejalVasan](https://github.com/sejalvasan/sejalvasan/assets/69964629/1d440717-c3e6-4358-994a-a060f2d7891a)
 
 ## Hi there, 👋🏻 I am [Sejal](https://sejalvasan.netlify.app/) <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
