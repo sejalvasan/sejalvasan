@@ -5,22 +5,20 @@
 
 ### About me 
 <ul>
- <li>I have completed my bachelors in Information Technology engineering (2023 graduate).</li>
-<li>I am passionate about Full Stack Development.</li>
-<li>Being a technophile I have always been eager to bring value to the tech community through hard work and commitment to quality. I love to learn new things and implement my learnings practically.</li>
-  </ul>
+<li>A full stack developer, forever embracing new technologies and hungry for continuous learning.</li>
+<li>Graduated with a Bachelor's degree in Information Technology Engineering in 2023.</li>
+<li>Driven by a passion for technology, I aim to harness its power to create meaningful and positive societal change.</li>
+</ul>
 
 
 ### Experiences
 <!--  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px"> 
  -->
- - Software Development Intern at [Amazon](https://www.linkedin.com/company/amazon/mycompany/verification/). [01/2023 - 06/2023]
+ - Software Developer at [Amazon](https://www.linkedin.com/company/amazon/mycompany/verification/). [04/2024 - Present]
+ - Previously worked Full time at [Salesforce](https://www.linkedin.com/company/salesforce/) and [ZS Associates](https://www.linkedin.com/company/zs-associates/), and as an SDE Intern at [Amazon](https://www.linkedin.com/company/amazon/mycompany/verification/).
  - Co-Founder at [She Gazette](https://shegazette.co/) 
  - Instructor at [UAceIt](https://uaceit.com/), Check out my couse [The Ultimate Guide To Technical Blogging](https://uaceit.com/courses/ultimate-guide-to-technical-blogging/)
- - Participant at [GSSoC'21](https://gssoc.girlscript.tech/)
- - Interned as a Web Developer at [Sparks Foundation](https://www.thesparksfoundationsingapore.org/)
- - Campus Lead at [Script Foundation](https://www.scriptindia.org/)
- - Interened at [Womenite](https://womenite.com/) - Taught 53 people how to use Google Assistant Program
+ - Volunteered at [Womenite](https://womenite.com/) - Taught 53 people how to use Google Assistant Program
  
 ### Read My Blogs  
 <!-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="30px" /> -->
