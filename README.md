@@ -5,17 +5,17 @@
 
 ### About me 
 <ul>
-<li>A full stack developer, forever embracing new technologies and hungry for continuous learning.</li>
-<li>Graduated with a Bachelor's degree in Information Technology Engineering in 2023.</li>
-<li>Driven by a passion for technology, I aim to harness its power to create meaningful and positive societal change.</li>
+<li>A full stack developer, forever embracing new technologies and hungry for continuous learning</li>
+<li>Graduated with a Bachelor's degree in Information Technology Engineering in 2023</li>
+<li>Driven by a passion for technology, I aim to harness its power to create meaningful and positive societal change</li>
 </ul>
 
 
-### Experiences
+### Experience
 <!--  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px"> 
  -->
- - Software Developer at [Amazon](https://www.linkedin.com/company/amazon/mycompany/verification/). [04/2024 - Present]
- - Previously worked Full time at [Salesforce](https://www.linkedin.com/company/salesforce/) and [ZS Associates](https://www.linkedin.com/company/zs-associates/), and as an SDE Intern at [Amazon](https://www.linkedin.com/company/amazon/mycompany/verification/).
+ - Software Developer at [Amazon](https://www.linkedin.com/company/amazon/mycompany/verification/) [04/2024 - Present]
+ - Previously worked Full time at [Salesforce](https://www.linkedin.com/company/salesforce/) and [ZS Associates](https://www.linkedin.com/company/zs-associates/), and as an SDE Intern at [Amazon](https://www.linkedin.com/company/amazon/mycompany/verification/)
  - Co-Founder at [She Gazette](https://shegazette.co/) 
  - Instructor at [UAceIt](https://uaceit.com/), Check out my couse [The Ultimate Guide To Technical Blogging](https://uaceit.com/courses/ultimate-guide-to-technical-blogging/)
  - Volunteered at [Womenite](https://womenite.com/) - Taught 53 people how to use Google Assistant Program
